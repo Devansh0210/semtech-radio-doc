@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['i2cdeinit_0',['I2cDeInit',['../i2c_8c.html#a99f039219bb74804415a09fad5153a82',1,'I2cDeInit(I2c_t *obj):&#160;i2c.c'],['../i2c_8h.html#a99f039219bb74804415a09fad5153a82',1,'I2cDeInit(I2c_t *obj):&#160;i2c.c']]],
+  ['i2cinit_1',['I2cInit',['../i2c_8c.html#a410f483efda5410ad9c5193dc0797d87',1,'I2cInit(I2c_t *obj, I2cId_t i2cId, PinNames scl, PinNames sda):&#160;i2c.c'],['../i2c_8h.html#a410f483efda5410ad9c5193dc0797d87',1,'I2cInit(I2c_t *obj, I2cId_t i2cId, PinNames scl, PinNames sda):&#160;i2c.c']]],
+  ['i2cmcudeinit_2',['I2cMcuDeInit',['../i2c-board_8h.html#a77e28eab6cbd136aa0cfd4fe3c706f5f',1,'i2c-board.h']]],
+  ['i2cmcuformat_3',['I2cMcuFormat',['../i2c-board_8h.html#a456b84f836d8b75c058d9f6140acc162',1,'i2c-board.h']]],
+  ['i2cmcuinit_4',['I2cMcuInit',['../i2c-board_8h.html#a69f7f8212c7cdae755e4a18e85310268',1,'i2c-board.h']]],
+  ['i2cmcureadbuffer_5',['I2cMcuReadBuffer',['../i2c-board_8h.html#ac81d6bed48412dc31854319cf2396122',1,'i2c-board.h']]],
+  ['i2cmcureadmembuffer_6',['I2cMcuReadMemBuffer',['../i2c-board_8h.html#a552e855f402133d22f5c929b955e4793',1,'i2c-board.h']]],
+  ['i2cmcuresetbus_7',['I2cMcuResetBus',['../i2c-board_8h.html#ae41efd0800178acda33ce916bfd22ee8',1,'i2c-board.h']]],
+  ['i2cmcuwaitstandbystate_8',['I2cMcuWaitStandbyState',['../i2c-board_8h.html#a41ec37143d78f4043253651da97cbc7d',1,'i2c-board.h']]],
+  ['i2cmcuwritebuffer_9',['I2cMcuWriteBuffer',['../i2c-board_8h.html#aaeb3040ffec3c40c0372e91f4759a6b4',1,'i2c-board.h']]],
+  ['i2cmcuwritemembuffer_10',['I2cMcuWriteMemBuffer',['../i2c-board_8h.html#a83498fa6ce26fe4fdae2c608dde3beac',1,'i2c-board.h']]],
+  ['i2cread_11',['I2cRead',['../i2c_8c.html#a999a2f7e41d98f9ec57e6b587b5176b0',1,'I2cRead(I2c_t *obj, uint8_t deviceAddr, uint8_t *data):&#160;i2c.c'],['../i2c_8h.html#a999a2f7e41d98f9ec57e6b587b5176b0',1,'I2cRead(I2c_t *obj, uint8_t deviceAddr, uint8_t *data):&#160;i2c.c']]],
+  ['i2creadbuffer_12',['I2cReadBuffer',['../i2c_8c.html#a09f13ec47fe891da5b6e426daa98d87f',1,'I2cReadBuffer(I2c_t *obj, uint8_t deviceAddr, uint8_t *buffer, uint16_t size):&#160;i2c.c'],['../i2c_8h.html#a09f13ec47fe891da5b6e426daa98d87f',1,'I2cReadBuffer(I2c_t *obj, uint8_t deviceAddr, uint8_t *buffer, uint16_t size):&#160;i2c.c']]],
+  ['i2creadmem_13',['I2cReadMem',['../i2c_8c.html#acf25a68eb16e2abce9619930c48da666',1,'I2cReadMem(I2c_t *obj, uint8_t deviceAddr, uint16_t addr, uint8_t *data):&#160;i2c.c'],['../i2c_8h.html#acf25a68eb16e2abce9619930c48da666',1,'I2cReadMem(I2c_t *obj, uint8_t deviceAddr, uint16_t addr, uint8_t *data):&#160;i2c.c']]],
+  ['i2creadmembuffer_14',['I2cReadMemBuffer',['../i2c_8c.html#a20f4bd99635efb58352919782ba5981e',1,'I2cReadMemBuffer(I2c_t *obj, uint8_t deviceAddr, uint16_t addr, uint8_t *buffer, uint16_t size):&#160;i2c.c'],['../i2c_8h.html#a20f4bd99635efb58352919782ba5981e',1,'I2cReadMemBuffer(I2c_t *obj, uint8_t deviceAddr, uint16_t addr, uint8_t *buffer, uint16_t size):&#160;i2c.c']]],
+  ['i2cresetbus_15',['I2cResetBus',['../i2c_8c.html#add6712bd072e8f19a9f808ae451a2730',1,'I2cResetBus(I2c_t *obj):&#160;i2c.c'],['../i2c_8h.html#add6712bd072e8f19a9f808ae451a2730',1,'I2cResetBus(I2c_t *obj):&#160;i2c.c']]],
+  ['i2csetaddrsize_16',['I2cSetAddrSize',['../i2c-board_8h.html#a522539d14575a7bb1ac6ba5e35abf9b4',1,'i2c-board.h']]],
+  ['i2cwrite_17',['I2cWrite',['../i2c_8c.html#af91c39f8df49a521ceab64ef3b296ed6',1,'I2cWrite(I2c_t *obj, uint8_t deviceAddr, uint8_t data):&#160;i2c.c'],['../i2c_8h.html#af91c39f8df49a521ceab64ef3b296ed6',1,'I2cWrite(I2c_t *obj, uint8_t deviceAddr, uint8_t data):&#160;i2c.c']]],
+  ['i2cwritebuffer_18',['I2cWriteBuffer',['../i2c_8c.html#a3c75d0b6d7c0a4089095fc913057eb0d',1,'I2cWriteBuffer(I2c_t *obj, uint8_t deviceAddr, uint8_t *buffer, uint16_t size):&#160;i2c.c'],['../i2c_8h.html#a3c75d0b6d7c0a4089095fc913057eb0d',1,'I2cWriteBuffer(I2c_t *obj, uint8_t deviceAddr, uint8_t *buffer, uint16_t size):&#160;i2c.c']]],
+  ['i2cwritemem_19',['I2cWriteMem',['../i2c_8c.html#a1effc70a03c97ee00ee762f7c94d1760',1,'I2cWriteMem(I2c_t *obj, uint8_t deviceAddr, uint16_t addr, uint8_t data):&#160;i2c.c'],['../i2c_8h.html#a1effc70a03c97ee00ee762f7c94d1760',1,'I2cWriteMem(I2c_t *obj, uint8_t deviceAddr, uint16_t addr, uint8_t data):&#160;i2c.c']]],
+  ['i2cwritemembuffer_20',['I2cWriteMemBuffer',['../i2c_8c.html#ae09486e3a4358873887799c4dba0c321',1,'I2cWriteMemBuffer(I2c_t *obj, uint8_t deviceAddr, uint16_t addr, uint8_t *buffer, uint16_t size):&#160;i2c.c'],['../i2c_8h.html#ae09486e3a4358873887799c4dba0c321',1,'I2cWriteMemBuffer(I2c_t *obj, uint8_t deviceAddr, uint16_t addr, uint8_t *buffer, uint16_t size):&#160;i2c.c']]],
+  ['isfifoempty_21',['IsFifoEmpty',['../fifo_8h.html#a6dd7f27f2fc2e70df4052f4245299b30',1,'fifo.c']]],
+  ['isfifofull_22',['IsFifoFull',['../fifo_8h.html#a7804419a5f8937e0f50cce2a67aaa198',1,'fifo.c']]]
+];
